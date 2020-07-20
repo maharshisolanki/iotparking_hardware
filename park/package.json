@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.4",
     "firebase": "^7.9.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "materialize-css": "^1.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
